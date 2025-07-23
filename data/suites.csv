@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Авторизация через /v2/login","576","Успешная авторизация с валидными данными v2","tests","Wed Jul 23 16:51:43 UTC 2025","passed","Wed Jul 23 16:51:44 UTC 2025","","test_login","",""
+"Авторизация через /v2/login","534","Неуспешная авторизация с невалидным паролем v2","tests","Wed Jul 23 16:51:44 UTC 2025","passed","Wed Jul 23 16:51:44 UTC 2025","","test_login","",""
+"Авторизация через /login","567","Неуспешная авторизация с невалидным паролем","tests","Wed Jul 23 16:51:43 UTC 2025","passed","Wed Jul 23 16:51:43 UTC 2025","","test_login","",""
+"Авторизация через /login","616","Успешная авторизация с валидными данными (устаревший метод)","tests","Wed Jul 23 16:51:42 UTC 2025","passed","Wed Jul 23 16:51:43 UTC 2025","","test_login","",""
