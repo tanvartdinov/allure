@@ -1,7 +1,6 @@
 import allure
 import requests
 
-
 class APIClient:
     base_url = 'https://fe.rc.smotreshka.tv'
 
